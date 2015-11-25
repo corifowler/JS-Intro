@@ -1,3 +1,4 @@
-#Assignment 5
+## Pracicing different JS fundamentals
 
-### Variables, math, and expressions!!
+* strings
+* creating variables
